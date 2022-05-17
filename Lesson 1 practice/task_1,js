@@ -1,0 +1,9 @@
+let a = 2;
+let b = 2;
+c = Math.sqrt(Math.sqrt(a + b));
+
+console.log(c);
+
+//https://informatics.msk.ru/mod/statements/view.php?id=2296&chapterid=2936#1
+
+/* Great! */
