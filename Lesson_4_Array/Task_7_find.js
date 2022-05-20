@@ -1,11 +1,15 @@
-let students = ["said", "golib", "mansur", "najib", "yosin"]
-function secondA(element){
-      if(element[1]=="a")
-         return element
-      else "Not working"  
-      console.log(found)   
+let students = ["said", "golib", "mansur", "najib", "yosin"];
+function secondA(students) {
+  let newArr = [];
+  for (let i = 0; i < students.length; i++) {
+    if (students[i][1] == "a") {
+      newArr.push(students[i]);
+    }
+  }
+
+  return newArr;
 }
-students.find(secondA)
+console.log(secondA(students));
 
 //4 Isloh kardan
 
@@ -15,6 +19,6 @@ function isEven(element) {
   return element % 2 == 0;
 }
 let evenNumber = numbers.find(isEven);
-console.log(evenNumber);  
+console.log(evenNumber);
 
 //4
