@@ -9,8 +9,14 @@
       * for
       * while
       * do while
+## I have done 10 tasks at home
 
-2. Second Homework
+2. Second Homework <br />
+    a. Function and expression <br />
+    b. Variable scoped <br />
+    c. Hoisting <br />
+    d. Recursion <br />
+
     
 
       
