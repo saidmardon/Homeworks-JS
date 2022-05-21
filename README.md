@@ -10,7 +10,7 @@
       * for
       * while
       * do while
->## I have done 10 homework tasks with Arithmetic Operators and Logical Operators
+>## I have done 11 homework tasks with Arithmetic Operators and Logical Operators
 ***
 
 2. Second Homework <br />
