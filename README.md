@@ -1,10 +1,10 @@
 # My Javascript Homeworks
 1. First Homework <br />
-    a. Variables & Constants
-    b. Data Types
-    c. Arithmetic Operators
-    d. Logical Operators
-    e. Type Conversions
+    a. Variables & Constants <br />
+    b. Data Types <br />
+    c. Arithmetic Operators <br />
+    d. Logical Operators <br />
+    e. Type Conversions <br />
     f. Loop
       * for
       * while
