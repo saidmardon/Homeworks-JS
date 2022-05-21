@@ -40,7 +40,7 @@
     a. Types of Data <br />
     b. String, Number, BigInt,Boolean, Undefined, Null, Symbol,and Object <br />
     c. Practice <br />
->## I have done 5 homework tasks with Strings methods
+>## I have done 7 homework tasks with Strings methods
 *** 
 
 
