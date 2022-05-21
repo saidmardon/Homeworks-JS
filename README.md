@@ -33,14 +33,14 @@
 4. Fourth Homework <br />
     a. Arrays <br />
     b. Array methodds <br />
->## I have done 10 homework tasks with object methods
+>## I have done 10 homework tasks with Array methods
 ***
 
 5. Fifth Homework <br />
     a. Types of Data <br />
     b. String, Number, BigInt,Boolean, Undefined, Null, Symbol,and Object <br />
     c. Practice <br />
->## I have done 5 homework tasks with object methods
+>## I have done 5 homework tasks with Strings methods
 ***
 
 
