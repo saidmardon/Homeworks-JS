@@ -41,7 +41,7 @@
     b. String, Number, BigInt,Boolean, Undefined, Null, Symbol,and Object <br />
     c. Practice <br />
 >## I have done 5 homework tasks with Strings methods
-***
+*** 
 
 
     
