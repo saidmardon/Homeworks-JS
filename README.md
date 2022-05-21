@@ -27,8 +27,8 @@
 ## I have done 5 homework tasks with object methods
 
 4. Fourth Homework <br />
-    a. Arrays
-    b. Array methodds
+    a. Arrays <br />
+    b. Array methodds <br />
 ## I have done 10 homework tasks with object methods
 
 5. Fifth Homework <br />
