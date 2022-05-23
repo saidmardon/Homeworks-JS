@@ -1,5 +1,5 @@
 # My Javascript Homeworks 
-<img src=(MyJSLogo.png) width="200" height="200"/>
+!<img src=[JSlogo.png] alt="Here is JS Logo" width="200" height="200"/>
 *** 
 1. First Homework <br />
     a. Variables & Constants <br />
