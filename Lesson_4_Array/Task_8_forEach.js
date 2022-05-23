@@ -12,6 +12,11 @@ function computeSquare(element) {
   console.log(element * element);
 }
 numbers.forEach(computeSquare);
+//1
+//9
+//16
+//81
+//64
 
 
 
