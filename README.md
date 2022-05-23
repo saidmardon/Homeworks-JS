@@ -1,4 +1,4 @@
-# My Javascript Homeworks ![Here is Js Logo](JsLogo.png)
+# My Javascript Homeworks ![Here is Js Logo](MyJsLogo.png)
 ***
 1. First Homework <br />
     a. Variables & Constants <br />
