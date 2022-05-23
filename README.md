@@ -1,5 +1,6 @@
-# My Javascript Homeworks ![Here is Js Logo](MyJsLogo.png)
-*** <img src="MyJSLogo.png" width="200" height="400" />
+# My Javascript Homeworks 
+<img src=(MyJSLogo.png) width="200" height="200"/>
+*** 
 1. First Homework <br />
     a. Variables & Constants <br />
     b. Data Types <br />
