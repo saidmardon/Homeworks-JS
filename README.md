@@ -1,5 +1,5 @@
 # My Javascript Homeworks 
-![Js Logo](Logo.png)
+![Js Logo](JsLogo.png)
 *** 
 1. First Homework <br />
     a. Variables & Constants <br />
